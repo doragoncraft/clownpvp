@@ -1,0 +1,8 @@
+name: spvp
+main: me.Cl0wnslayer.spvp.spvp
+version: 1.0
+description: >
+             Youtube Plugin.
+commands:
+  lobby:
+    description: Teleports !
